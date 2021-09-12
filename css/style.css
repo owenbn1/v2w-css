@@ -1,0 +1,29 @@
+
+
+body {
+  background-color: #E3FDFD;
+  font-family: 'Nanum Brush Script', cursive;
+  font-size: 150%;
+  font-weight: 600;
+}
+
+hr {
+  border-color: #71C9CE;
+  border-style: hidden;
+  border-bottom-style: dotted;
+  border-bottom-width: 7px;
+  width: 3%;
+}
+
+h1 {
+  color: #66BFBF;
+  font-family: 'Bungee Hairline', cursive;
+  font-weight: 800;
+}
+
+h3 {
+  color: #66BFBF;
+  font-family: 'Bungee Hairline', cursive;
+  font-weight: 900;
+
+}
